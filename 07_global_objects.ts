@@ -53,7 +53,6 @@
 
     promise().then(res => {
         console.log(res);
-        
     })
 
     
